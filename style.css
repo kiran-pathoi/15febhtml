@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg{
+    background-image: url(./image/logo.jpeg);
+   background-repeat: no-repeat;
+    height: 400px;
+    width: 400px;
+    background-size: contain;
+}
+.flex{
+    background-image:url(./image/logo1.jpeg);
+    height: 600px;
+    width: 1600px;
+    background-size: auto;
+    background-repeat: repeat;
+}  
+
+.kiran{
+    background-image: url(./image/logo3.jpeg);
+    height: 600px;
+    width: 600px;
+    background-size: cover;
+}
+.pic{
+    background-image: url(./image/Untitled\ design.jpg);
+    height: 600px;
+    width: 1600px;
+}
